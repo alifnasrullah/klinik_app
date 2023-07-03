@@ -1,6 +1,6 @@
-# klinik_app
+# klinik_app 
 
-A new Flutter project.
+Tugas Individu Flutter
 
 ## Getting Started
 
